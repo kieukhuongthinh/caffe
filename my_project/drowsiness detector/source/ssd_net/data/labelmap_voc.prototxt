@@ -1,0 +1,15 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "cannot detect"
+}
+item {
+  name: "sleepy"
+  label: 1
+  display_name: "sleeping"
+}
+item {
+  name: "awake"
+  label: 2
+  display_name: "awake"
+}
